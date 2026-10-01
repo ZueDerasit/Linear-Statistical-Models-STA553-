@@ -1,7 +1,6 @@
 # STA553: Linear Statistical Models
 
-This repository contains learning materials, R code, lab activities,
-R Markdown templates, assignments, and mini-project resources for STA553.
+This repository contains learning materials, R code, lab activities, R Markdown resources, assignments, and mini-project materials for STA553.
 
 ## Course Overview
 
